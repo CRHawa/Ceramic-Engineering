@@ -1,0 +1,99 @@
+body {
+  margin: 0;
+  font-family: cursive, sans-serif;
+  background-color: rgb(86, 21, 21);
+}
+
+header {
+  background-color: #ec5454;
+  padding: 20px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #000000;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+/* Customize Styles as needed */
+
+/* Calculator Styles */
+.calculator {
+  width: 200px;
+  margin: 0 auto;
+  border: 2px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+input[type="text"] {
+  width: 87%;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+.buttons button {
+  width: 40px;
+  height: 30px;
+  margin: 2px;
+  font-size: 14px;
+  font-family: arial;
+}
+
+footer {
+	background-color: black;
+	color: white;
+}
+#about {
+  background-color: rgb(202, 83, 83);
+  padding-left: 10px;
+  color: black;
+}
+#hero {
+  background-color: rgb(202, 83, 83);
+  padding-left: 10px;
+  color: black;
+}
+
+#research {
+  background-color: rgb(202, 83, 83);
+  padding-left: 10px;
+  color: black;
+}
+
+#applications {
+  background-color: rgb(202, 83, 83);
+  padding-left: 10px;
+  color: black;
+}
+
+#resources {
+  background-color: rgb(202, 83, 83);
+  padding-left: 10px;
+  color: black;
+}
+
+#contact {
+  background-color: rgb(202, 83, 83);
+  padding-left: 10px;
+  color: black;
+}
+
